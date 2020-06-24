@@ -1,0 +1,6 @@
+VARIABLE: Es lo que se utiliza en programación para guardar un dato, al que luego se podrá acceder utilizando el nombre que se le asignó en el momento de su definición.
+STRING: Es un tipo de datos que se caracteriza por ser un hilo de carácteres, debe ser escrito entre comillas para que se interprete como string.
+FUNCIONES (argumentos, return): Una función es una parte de código que se encuentra "empaquetada" y realiza una tarea específica. Con ella podemos dividir el código en bloques, que pueden ser llamados con el nombre que se le dió cuando se creó.
+La funciones pueden tener argumentos que modifiquen su comportamiento. En algunos casos queremos que una función realice una operación con los argumentos que le damos y nos devuelva un resultado, para esto se utiliza return. El return es un corte en la función, cuando se llega a ese punto se termina la ejecución y se obtiene un resultado.
+DECLARACIONES If: If es la palabra clave que se utiliza para que una función verifique si se cumplen ciertas condiciones o no y dependiendo de ellos se ejecutará una u otra instrucción.
+VALORES BOOLEANOS (true, false): Se utilizan para cuando una expresión puede tomar solo dos valores, true o false.
