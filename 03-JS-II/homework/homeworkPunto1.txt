@@ -1,0 +1,6 @@
+BUCLE FOR: se utiliza cuando queremos que un bloque de código se ejecute hasta que se cumpla una condición de parada.
+
+OPERADORES LÓGICOS: se utilizan para analizar dos expresiones de comparación, dependiendo de qué respuesta esperemos contamos con tres operadores lógicos, los mismos son: 
+	&& ("AND"), evalúa si ambas expresiones son verdaderas (en caso contrario la función devolverá un false); 
+	|| ("OR"), con este sabremos si al menos una de las expresiones es true, para que nos devuelva false ambas expresiones deben ser falsas; 
+	por último, ! ("NOT"), con este operador se obtiene el valor booleano opuesto al que se recibe.
