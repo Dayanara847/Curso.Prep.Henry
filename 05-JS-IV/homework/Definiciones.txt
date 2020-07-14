@@ -1,0 +1,16 @@
+OBJETOS: Estos son contenedores de datos, dentro de ellos se puede guardar mucha información sobre una misma cosa. Un objeto está formado por propiedades y valores de las mismas (que pueden ser de cualquier tipo de datos), una estructura genérica puede ser:
+var objeto = {
+	propiedad1: valor1,
+	propiedad2: valor2,
+	...
+	propiedadN: valorN,
+	}
+
+PROPIEDAD: Es una asociación entre una clave y un valor, la clave es la forma en que podemos identificar esta propiedad y el valor es el que queremos guardar en ella.
+
+MÉTODO: Una propiedad que es una función, es conocida como método.
+
+BUCLE 'for..in': Esta clase de bucle se utiliza cuando se quiere recorrer todas las propiedades de un objeto, para cada uno de los elementos se ejecuta la sentencia especificada.
+
+NOTACIÓN DE PUNTOS VS NOTACIÓN DE CORCHETES: Para acceder a una propiedad de un objeto se pueden utilizar dos notaciones, de puntos y de corchetes. La ventaja de la primera es la facilidad para el acceso, y la desventaja que presenta frente a la otra es que no se puede utilizar una variable porque la notación es literal, esto quiere decir que si no hay una propiedad con ese nombre dentro del objeto obtendremos undefined.
+
