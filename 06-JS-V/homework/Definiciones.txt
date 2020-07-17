@@ -1,0 +1,4 @@
+`prototype`: cada objeto en JavaScript tiene un objeto base o prototipo donde se encuentran propiedades y métodos comunes a todos los objetos de un mismo tipo (arrays, strings), o a todos los objetos que derivan de un mismo prototipo creado por el programador.
+
+_Constructors_ (de Clases): las funciones constructors nos permiten crear objetos que pertenezcan a una misma clase, y que por lo tanto compartan las propiedades y métodos que están definidos para la clase a la que pertenece.
+La ventaja de utilizar esta forma es que si se necesita generar muchos objetos puedo realizarlo haciendo referecia a la función constructora y pasándole los argumentos del nuevo objeto, de esta forma se evita repetir código.
